@@ -1,13 +1,5 @@
 # Developer needed book list
 
-_বাংলা বইসমুহ_
-
-- **ডাটা সাইন্স**
-
-  - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/a-beginners-guide-to-data-science.pdf" target="_blank"> এ বিগেইনার গাইড টু ডাটা সাইন্স</a>
-
-_English Books_
-
 - **NodeJS**
 
   - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/*%2012%20Node.js%20Design%20Patterns%20Design%20and%20implement%20-%20Third%20Edition%20%5BBooxRack%5D.pdf" target="_blank"> 12 Node.js Design Patterns Design and implement </a>
